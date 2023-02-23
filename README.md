@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahalieorlando
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning advanced excel, tableu, sql, pyton
+- 🌱 I’m currently learning advanced excel, statistical data analysis, tableu, sql, pyton
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me Linkedin: Mahalie (Oshiro) Orlando
 
